@@ -22,8 +22,8 @@ This project helps in early fire detection and ensures safety through automation
 #include <DallasTemperature.h>
 
 // ********** WiFi Credentials **********
-#define WIFI_SSID "Sharanya"
-#define WIFI_PASSWORD "ishu12345"
+#define WIFI_SSID "**********"
+#define WIFI_PASSWORD "********"
 
 // ********** Firebase Credentials **********
 #define API_KEY "AIzaSyDH4S9_rmOxMww725sWGLvibErl9hgWZXM"
